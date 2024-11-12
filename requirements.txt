@@ -1,0 +1,5 @@
+Flask==2.0.3
+Flask-SocketIO==5.1.1
+python-socketio==5.4.0
+python-engineio==4.3.0
+better_profanity==0.4.1
