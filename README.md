@@ -6,7 +6,9 @@ This is a real-time chat app using Flask and Socket.IO. It features:
 
 **Profanity Filtering:** Masks offensive words using the better_profanity library.
 **Abbreviation Expansion:** Expands common abbreviations using a custom dictionary.
+
 **How to Run**
+
 **1. Clone the Repository:**
 bash
 
@@ -17,11 +19,13 @@ git clone <repository-url>
 cd <project-directory>
 
 **2. Install Dependencies:**
+
 Copy code
 
 pip install flask flask-socketio better-profanity
 
 **3.Start the Server:**
+
 Copy code
 
 python app.py
