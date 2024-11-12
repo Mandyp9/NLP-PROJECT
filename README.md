@@ -9,16 +9,21 @@ This is a real-time chat app using Flask and Socket.IO. It features:
 **How to Run**
 **1. Clone the Repository:**
 bash
+
 Copy code
+
 git clone <repository-url>
+
 cd <project-directory>
 
 **2. Install Dependencies:**
 Copy code
+
 pip install flask flask-socketio better-profanity
 
 **3.Start the Server:**
 Copy code
+
 python app.py
 
 **4. Open in Browser:** Visit http://localhost:5000 to start chatting.
